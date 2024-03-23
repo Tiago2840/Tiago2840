@@ -2,13 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;" />
 </h1>
 
-<div id="toc" align=left>
-  <h3>Table of Contents</h3>
-  <li><a href="./#user-content-about-me">About Me</a></li>
-  <li><a href="./#user-content-technologies">Technologies</a></li>
-  <li><a href="./#user-content-repositories">Repositories</a></li>
-  <li><a href="./#user-content-contributions">Contributions</a></li>
-  <li><a href="./#user-content-stats">Stats</a></li>
+<div>
+<h3>Table of Contents</h3>
+
+- [About Me](#about-me)
+- [Technologies](#technologies)
+- [Repositories](#repositories)
+- [Contributions](#contributions)
+- [Stats](#stats)
+
 </div>
 
 <br/><hr/>
