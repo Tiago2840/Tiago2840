@@ -1,6 +1,17 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;" />
 </h1>
+
+<div id="toc" align=left>
+  <h3>Table of Contents</h3>
+  <li><a href="./#user-content-about-me">About Me</a></li>
+  <li><a href="./#user-content-technologies">Technologies</a></li>
+  <li><a href="./#user-content-repositories">Repositories</a></li>
+  <li><a href="./#user-content-contributions">Contributions</a></li>
+  <li><a href="./#user-content-stats">Stats</a></li>
+</div>
+
+<br/><hr/>
 
 <div id="about-me">
   <h3 align="center">👋 My name is Tiago and I'm a developer from Portugal</h3>
@@ -41,6 +52,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="16" />
+  <img src="https://icon.icepanel.io/Technology/svg/Azure-Devops.svg" height="30" alt="azure devops logo"  />
+  
+  <h4><b>Languages Used in an academic environment</b></h4>
+  </br>
+  <img src="https://icon.icepanel.io/Technology/svg/C.svg" height="30" alt="C logo"  />
+  <img width="16" />
+  <img src="https://icon.icepanel.io/Technology/svg/Java.svg" height="30" alt="java logo"  />
+  <img width="16" />
+  <img src="https://icon.icepanel.io/Technology/svg/Python.svg" height="30" alt="python logo"  />
+  <img width="16" />
+  <img src="https://icon.icepanel.io/Technology/svg/SQL-Developer.svg" height="30" alt="sql developer logo"  />  
+  <img width="16" />
+  <img src="https://iconape.com/wp-content/png_logo_vector/outsystems-logo.png" height="30" alt="outsystems logo"  />  
 </div>
 
 <br/><hr/>
@@ -52,7 +77,7 @@
     <li><a href="https://github.com/Tiago2840/Terraincognita-Review" target="_blank"">Terraincognita-Review</a> <a href="https://terraincognita-review.pt/en" target="_blank">[terraincognita-review.pt]</a> (Private Repository)</li>
     <li><a href="https://github.com/Tiago2840/MBOceanicLounge" target="_blank"">MBOceanicLounge</a> <a href="https://mboceaniclounge.pt" target="_blank">[mboceaniclounge.pt]</a> (Private Repository)</li>
   
-<h4>College Projects</h4>
+<h4>Academic Projects</h4>
   <li><a href="https://github.com/Tiago2840/SO2023_Projeto1" target="_blank"">Operating Systems - 1stProject</a></li>
   <li><a href="https://github.com/Tiago2840/SO2023_Projeto2" target="_blank"">Operating Systems - 2ndProject</a></li>
 </div>
@@ -71,4 +96,10 @@
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Tiago2840&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width="32" />
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Tiago2840&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</div>
+
+<br/><hr/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="linkedin logo"  /> 
 </div>
