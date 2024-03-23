@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;" />
 </h1>
 
-###
-
 <div id="about-me">
   <h3 align="center">👋 My name is Tiago and I'm a developer from Portugal</h3>
   <p align="justify">👷🏻 I'm <b>currently integrated in a Data warehouse (Data & Analytics) Deloitte team</b>, whose services consist of assisting in application management and enhancement, rendered on squad base and agile delivery model covering core, payments, credit, reports, DW, etc...</p>
@@ -46,15 +44,29 @@
 </div>
 
 <br/><hr/>
+
+<div id="repositories">
+  <h3 align="center">My Repositories</h3>
+  <h4>Real Projects</h4>
+    <li><a href="https://github.com/Tiago2840/Terraincognita-Main" target="_blank"">Terraincognita-Main</a> <a href="https://terraincognita.pt/en" target="_blank">[terraincognita.pt]</a> (Private Repository)</li>
+    <li><a href="https://github.com/Tiago2840/Terraincognita-Review" target="_blank"">Terraincognita-Review</a> <a href="https://terraincognita-review.pt/en" target="_blank">[terraincognita-review.pt]</a> (Private Repository)</li>
+    <li><a href="https://github.com/Tiago2840/MBOceanicLounge" target="_blank"">MBOceanicLounge</a> <a href="https://mboceaniclounge.pt" target="_blank">[mboceaniclounge.pt]</a> (Private Repository)</li>
+  
+<h4>College Projects</h4>
+  <li><a href="https://github.com/Tiago2840/SO2023_Projeto1" target="_blank"">Operating Systems - 1stProject</a></li>
+  <li><a href="https://github.com/Tiago2840/SO2023_Projeto2" target="_blank"">Operating Systems - 2ndProject</a></li>
+</div>
+
+<br/><hr/>
  
-<div align="center">
+<div align="center" id="contributions">
   <h3>My Contributions </h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tiago2840/tiago2840/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br/><hr/>
 
-<h3 align="center">My Stats</h3>
+<h3 align="center" id="stats">My Stats</h3>
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Tiago2840&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width="32" />
