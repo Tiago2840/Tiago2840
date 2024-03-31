@@ -75,11 +75,12 @@
 <div id="repositories">
   <h3 align="center">My Repositories</h3>
   <h4>Real Projects</h4>
-    <li><a href="https://github.com/Tiago2840/Terraincognita-Main" target="_blank"">Terraincognita-Main</a> <a href="https://terraincognita.pt/en" target="_blank">[terraincognita.pt]</a> (Private Repository)</li>
-    <li><a href="https://github.com/Tiago2840/Terraincognita-Review" target="_blank"">Terraincognita-Review</a> <a href="https://terraincognita-review.pt/en" target="_blank">[terraincognita-review.pt]</a> (Private Repository)</li>
-    <li><a href="https://github.com/Tiago2840/MBOceanicLounge" target="_blank"">MBOceanicLounge</a> <a href="https://mboceaniclounge.pt" target="_blank">[mboceaniclounge.pt]</a> (Private Repository)</li>
+    <li><a href="https://github.com/Tiago2840/Terraincognita-Main" target="_blank"">Terraincognita-Main</a> (Private Repository). Visit at <a href="https://terraincognita.pt/en" target="_blank">terraincognita.pt</a></li>
+    <li><a href="https://github.com/Tiago2840/Terraincognita-Review" target="_blank"">Terraincognita-Review</a> (Private Repository). Visit at <a href="https://terraincognita-review.pt/en" target="_blank">terraincognita-review.pt</a></li>
+    <li><a href="https://github.com/Tiago2840/MBOceanicLounge" target="_blank"">MBOceanicLounge</a> (Private Repository) Visit at <a href="https://mboceaniclounge.pt" target="_blank">mboceaniclounge.pt</a></li>
   
 <h4>Academic Projects</h4>
+  <li><a href="https://github.com/Tiago2840/Simon-Game-Challenge" target="_blank"">Simon Game Challenge</a> Visit at <a href="https://tiagocr-simon-game-challenge.vercel.app/" target="_blank">Tiagocr Simon Game Challenge</a></li>
   <li><a href="https://github.com/Tiago2840/SO2023_Projeto1" target="_blank"">Operating Systems - 1stProject</a></li>
   <li><a href="https://github.com/Tiago2840/SO2023_Projeto2" target="_blank"">Operating Systems - 2ndProject</a></li>
 </div>
